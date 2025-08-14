@@ -30,3 +30,4 @@ Below is a selection of analyses performed on public applications:
     * [Performance/Functional Bug Report](didi-mobile-analysis/01-Performance-Bug-Report.md)
     * [UX/Functional Bug Report](didi-mobile-analysis/02-UX-Functional-Bug-Report.md)
     * [UX Bug Report](didi-mobile-analysis/03-UX-Feedback-Report.md)
+    * [Visual UI Report](didi-mobile-analysis/04-UI-Delete_Messages-Text-Report)
