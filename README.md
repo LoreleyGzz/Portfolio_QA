@@ -23,6 +23,6 @@ This portfolio contains a selection of my analyses and test reports.
 Below is a selection of analyses performed on public applications:
 
 * **Project 1: DemoBlaze Website Analysis**
-    * [Visual (UI) Bug Report](https://docs.google.com/document/d/1MBg0MC7_5CHkQ7-P-GBqZ0tjJbhC87NZ5LU0GGA6XPk/edit?tab=t.0)
-    * [Functional Bug Report](https://docs.google.com/document/d/13yZH4cDIEl9BsE_GiWdE9vqBLXUpHz1RyKoyKi8Fyig/edit?usp=sharing)
-    * [UX Improvement Suggestion](https://docs.google.com/document/d/14bo6ZddlnuwM20o_kQsgmj0dRVQdoiAjFlkCoPPAB_I/edit?tab=t.0)
+   * [Visual (UI) Bug Report](demoblaze-analysis/01-UI-Bug-Report.md)
+   * [Functional Bug Report](demoblaze-analysis/02-Functional-Bug-Report.md)
+   * [UX Improvement Suggestion](demoblaze-analysis/03-UX-Improvement-Suggestion.md)
