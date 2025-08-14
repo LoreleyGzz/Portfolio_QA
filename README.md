@@ -26,3 +26,5 @@ Below is a selection of analyses performed on public applications:
    * [Visual (UI) Bug Report](demoblaze-analysis/01-UI-Bug-Report.md)
    * [Functional Bug Report](demoblaze-analysis/02-Functional-Bug-Report.md)
    * [UX Improvement Suggestion](demoblaze-analysis/03-UX-Improvement-Suggestion.md)
+* **Project 2: DiDi Mobile App Analysis**
+    * [Performance/Functional Bug Report](didi-mobile-analysis/01-Performance-Bug-Report.md)
