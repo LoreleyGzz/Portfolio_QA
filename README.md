@@ -36,3 +36,4 @@ Below is a selection of analyses performed on public applications:
     * [View Project on GitHub](https://github.com/LoreleyGzz/cypress-demoblaze-login-test)
     * Script 1: [Login Test (Beginner)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/login.cy.js)
     * Script 2: [E-commerce Flow (Intermediate)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/flujo-de-compra.cy.js)
+    * Script 3: [Intercept API (Advanced)](https://github.com/LoreleyGonzalez/cypress-demoblaze-login-test/blob/main/cypress/e2e/api-test.cy.js)
