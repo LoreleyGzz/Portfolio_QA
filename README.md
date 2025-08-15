@@ -33,6 +33,6 @@ Below is a selection of analyses performed on public applications:
     * [Visual UI Report](didi-mobile-analysis/04-UI-Delete_Messages-Text-Report)
     * [UX/ Consistency Report](didi-mobile-analysis/05-UX-Consistency-Bug-Report.md)
 * **Project 3: Login Test Automation with Cypress**
-    * [View Project Code on GitHub](https://github.com/LoreleyGzz/cypress-demoblaze-login-test)
-    * Script 1: [Login Test (Beginner)](cypress-demoblaze-login-test/cypress/e2e/login.cy.js)
-    * Script 2: [E-commerce Flow (Intermediate)](cypress-demoblaze-login-test/cypress/e2e/flujo-de-compra.cy.js)
+    * [View Project on GitHub](https://github.com/LoreleyGzz/cypress-demoblaze-login-test)
+    * Script 1: [Login Test (Beginner)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/login.cy.js)
+    * Script 2: [E-commerce Flow (Intermediate)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/flujo-de-compra.cy.js)
