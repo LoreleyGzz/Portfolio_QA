@@ -32,3 +32,5 @@ Below is a selection of analyses performed on public applications:
     * [UX Bug Report](didi-mobile-analysis/03-UX-Feedback-Report.md)
     * [Visual UI Report](didi-mobile-analysis/04-UI-Delete_Messages-Text-Report)
     * [UX/ Consistency Report](didi-mobile-analysis/05-UX-Consistency-Bug-Report.md)
+* **Project 3: Login Test Automation with Cypress**
+    * [View Project Code on GitHub](https://github.com/LoreleyGzz/cypress-demoblaze-login-test)
