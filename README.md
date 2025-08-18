@@ -37,4 +37,7 @@ Below is a selection of analyses performed on public applications:
     * Script 1: [Login Test (Beginner)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/login.cy.js)
     * Script 2: [E-commerce Flow (Intermediate)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/flujo-de-compra.cy.js)
     * Script 3: [Intercept API (Advanced)](https://github.com/LoreleyGzz/cypress-demoblaze-login-test/blob/main/cypress/e2e/api-test.cy.js)
+ * **Project 4: End-to-End Purchase Flow (Swag Labs)**
+    * [View Project Code on GitHub](https://github.com/LoreleyGzz/cypress-swag-labs-e2e) 
+    *Script 1: [End-to-End Purchase Flow on Swag Labs]
       
